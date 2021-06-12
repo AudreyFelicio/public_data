@@ -1,5 +1,5 @@
 {
-  "openPhases" : ["phaseBugReporting"],
+  "openPhases" : ["phaseTeamResponse"],
   "phaseBugReporting": "public_data",
   "phaseTeamResponse": "public_data",
   "phaseTesterResponse": "public_data",
