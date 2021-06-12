@@ -1,7 +1,7 @@
 {
-  "openPhases" : ["phaseBugReporting", "phaseTeamResponse",  "phaseTesterResponse", "phaseModeration"],
-  "phaseBugReporting": "bugreporting",
-  "phaseTeamResponse": "pe-results",
-  "phaseTesterResponse": "testerresponse",
-  "phaseModeration": "pe-evaluation"
+  "openPhases" : ["phaseBugReporting"],
+  "phaseBugReporting": "public_data",
+  "phaseTeamResponse": "public_data",
+  "phaseTesterResponse": "public_data",
+  "phaseModeration": "public_data"
 }
